@@ -1,0 +1,1 @@
+# Monitor-Electoral-IA-2026-An-lisis-de-Sentimiento-de-Candidatos-Presidenciales-en-X-BETO-NLP-
