@@ -53,6 +53,7 @@ Instalar dependencias:
 Bash
 
 pip install pandas nltk transformers torch plotly dash pysentimiento
+
 Ejecutar el dashboard:
 
 Bash
